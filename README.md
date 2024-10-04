@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sumit-Autade/REAL-ESTATE.git
+   git clone https://github.com/ShuklaHariOm/REAL-ESTATE.git
    ```
 2. Run the Streamlit application:
    ```bash
